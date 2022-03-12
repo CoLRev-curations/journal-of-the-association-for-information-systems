@@ -6,3 +6,10 @@
     - endpoint: dblp
       params: SCOPE venue_key='journals/jais' AND journal_abbreviated='J. Assoc. Inf. Syst.'
   comment: ''
+- filename: CROSSREF.bib
+  search_type: FEED
+  source_name: Journal of the Association for Information Systems
+  source_url: ''
+  search_parameters: 
+    - endpoint: crossref
+      params: SCOPE journal_issn='1536-9323'
