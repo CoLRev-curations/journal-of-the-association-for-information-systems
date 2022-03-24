@@ -13,3 +13,11 @@
   search_parameters: 
     - endpoint: crossref
       params: SCOPE journal_issn='1536-9323'
+- filename: pdfs.bib
+  search_type: FEED
+  source_name: JAIS
+  source_url: pdfs
+  search_parameters:
+  - endpoint: pdfs_directory
+    params: SCOPE path='pdfs' WITH journal='Journal of the Association for Information Systems' AND sub_dir_pattern='volume_number'
+  comment: NA
