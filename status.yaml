@@ -11,16 +11,16 @@ colrev_status:
     md_retrieved: 0
     non_completed: 749
     non_processed: 0
-    pdf_imported: 0
+    pdf_imported: 724
     pdf_needs_manual_preparation: 0
-    pdf_needs_manual_retrieval: 0
-    pdf_needs_retrieval: 749
+    pdf_needs_manual_retrieval: 25
+    pdf_needs_retrieval: 0
     pdf_not_available: 0
     pdf_prepared: 0
     rev_excluded: 0
     rev_included: 0
     rev_prescreen_excluded: 1
-    rev_prescreen_included: 749
+    rev_prescreen_included: 0
     rev_synthesized: 0
   overall:
     md_imported: 2190
@@ -28,9 +28,9 @@ colrev_status:
     md_prepared: 2190
     md_processed: 750
     md_retrieved: 2190
-    pdf_imported: 0
+    pdf_imported: 724
     pdf_needs_manual_preparation: 0
-    pdf_needs_manual_retrieval: 0
+    pdf_needs_manual_retrieval: 749
     pdf_not_available: 0
     pdf_prepared: 0
     rev_excluded: 0
@@ -40,5 +40,5 @@ colrev_status:
     rev_prescreen_included: 749
     rev_screen: 0
     rev_synthesized: 0
-completed_atomic_steps: 5879
+completed_atomic_steps: 7352
 completeness_condition: false
