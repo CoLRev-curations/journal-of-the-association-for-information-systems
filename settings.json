@@ -256,7 +256,7 @@
                 ]
             },
             {
-                "endpoint": "colrev_cli_prescreen"
+                "endpoint": "conditional_prescreen"
             }
         ]
     },
