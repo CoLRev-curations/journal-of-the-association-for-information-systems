@@ -8,7 +8,7 @@ colrev_status:
     md_needs_manual_preparation: 0
     md_prepared: 0
     md_processed: 0
-    md_retrieved: 0
+    md_retrieved: 12
     non_completed: 742
     non_processed: 0
     pdf_imported: 724
@@ -27,7 +27,7 @@ colrev_status:
     md_needs_manual_preparation: 2190
     md_prepared: 2190
     md_processed: 743
-    md_retrieved: 2190
+    md_retrieved: 2202
     pdf_imported: 724
     pdf_needs_manual_preparation: 0
     pdf_needs_manual_retrieval: 742
