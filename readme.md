@@ -16,6 +16,13 @@ colrev environment --install geritwagner/journal-of-the-association-for-informat
 
 |TOC           |CROSSREF.bib    |DBLP.bib        |pdfs.bib        |all_merged      |
 |--------------|----------------|----------------|----------------|----------------|
+|UNKNOWN-23-6  |               -|               -|            *11*|              NO|
+|UNKNOWN-23-5  |               -|               -|             *9*|              NO|
+|UNKNOWN-23-2  |               -|               -|             *8*|              NO|
+|UNKNOWN-22-6  |               -|               -|             *1*|              NO|
+|UNKNOWN-20-8  |               -|               -|             *1*|              NO|
+|UNKNOWN-19-4  |               -|               -|             *1*|              NO|
+|UNKNOWN-18-12 |               -|               -|             *2*|              NO|
 |2023-23-2     |               1|               -|               1|              NO|
 |2022-23-4     |               6|               -|               6|              NO|
 |2022-23-3     |               7|               -|               7|              NO|
@@ -66,7 +73,7 @@ colrev environment --install geritwagner/journal-of-the-association-for-informat
 |2017-18-4     |               3|               3|               3|                |
 |2017-18-3     |               3|               3|               3|                |
 |2017-18-2     |               3|               3|               3|                |
-|2017-18-12    |               5|               5|               8|                |
+|2017-18-12    |               5|               5|            *1*8|              NO|
 |2017-18-11    |               3|               3|               3|                |
 |2017-18-10    |               3|               3|               3|                |
 |2017-18-1     |               3|               3|               3|                |
