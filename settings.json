@@ -88,6 +88,9 @@
                     },
                     {
                         "endpoint": "colrev_built_in.exclude_languages"
+                    },
+                    {
+                        "endpoint": "colrev_built_in.exclude_complementary_materials"
                     }
                 ]
             },
