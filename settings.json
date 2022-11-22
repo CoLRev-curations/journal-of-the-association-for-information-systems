@@ -121,6 +121,9 @@
                     },
                     {
                         "endpoint": "colrev_built_in.drop_fields"
+                    },
+                    {
+                        "endpoint": "colrev_built_in.get_year_from_vol_iss_jour"
                     }
                 ]
             },
@@ -139,6 +142,9 @@
                     },
                     {
                         "endpoint": "colrev_built_in.drop_fields"
+                    },
+                    {
+                        "endpoint": "colrev_built_in.get_year_from_vol_iss_jour"
                     }
                 ]
             },
@@ -160,6 +166,9 @@
                     },
                     {
                         "endpoint": "colrev_built_in.drop_fields"
+                    },
+                    {
+                        "endpoint": "colrev_built_in.get_year_from_vol_iss_jour"
                     }
                 ]
             }
