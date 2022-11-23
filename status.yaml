@@ -12,11 +12,11 @@ currently:
   non_completed: 20
   non_processed: 0
   pdf_imported: 0
-  pdf_needs_manual_preparation: 7
+  pdf_needs_manual_preparation: 0
   pdf_needs_manual_retrieval: 0
   pdf_needs_retrieval: 0
   pdf_not_available: 0
-  pdf_prepared: 13
+  pdf_prepared: 20
   rev_excluded: 0
   rev_included: 0
   rev_prescreen_excluded: 2
@@ -33,11 +33,11 @@ overall:
   pdf_needs_manual_preparation: 762
   pdf_needs_manual_retrieval: 762
   pdf_not_available: 0
-  pdf_prepared: 755
+  pdf_prepared: 762
   rev_excluded: 0
   rev_included: 742
   rev_prescreen: 764
   rev_prescreen_excluded: 2
   rev_prescreen_included: 762
-  rev_screen: 755
+  rev_screen: 762
   rev_synthesized: 742
