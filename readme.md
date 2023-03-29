@@ -17,7 +17,6 @@ colrev env --install geritwagner/journal-of-the-association-for-information-syst
 |TOC           |CROSSREF.bib    |DBLP.bib        |pdfs.bib        |all_merged      |
 |--------------|----------------|----------------|----------------|----------------|
 |UNKNOWN-24-2  |               -|               -|             *1*|              NO|
-|UNKNOWN-18-12 |               -|               -|             *1*|              NO|
 |2023-24-2     |            *11*|            *11*|            *10*|              NO|
 |2023-24-1     |               -|               -|            *10*|              NO|
 |2023-23-2     |               1|               -|               1|              NO|
