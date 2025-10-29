@@ -7,8 +7,8 @@ currently:
   md_needs_manual_preparation: 21
   md_prepared: 403
   md_processed: 0
-  md_retrieved: -1
-  non_completed: 424
+  md_retrieved: 193
+  non_completed: 210
   pdf_imported: 0
   pdf_needs_manual_preparation: 0
   pdf_needs_manual_retrieval: 0
